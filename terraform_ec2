@@ -56,9 +56,6 @@ resource "aws_instance" "my_instance"{
 
 
 
-
-
-
 PS C:\TWS-JUNOON\terraform-practice> ssh -i "junoon-key" ubuntu@ec2-3-250-14-146.eu-west-1.compute.amazonaws.com
 The authenticity of host 'ec2-3-250-14-146.eu-west-1.compute.amazonaws.com (3.250.14.146)' can't be established.
 ED25519 key fingerprint is SHA256:5O6fbe96trHqZMTHxQXbYH1SAXfA3y+kfiUgvmoJCuc.
