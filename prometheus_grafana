@@ -1,8 +1,3 @@
-
-
-
-
-
 ----------------------prometheus.yml------------------
 global:
   scrape_interval: 1m
@@ -144,4 +139,3 @@ services:
 
     depends_on:
       - prometheus
-~
