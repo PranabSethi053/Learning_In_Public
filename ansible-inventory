@@ -12,10 +12,6 @@ ansible_timeout=30
 
 
 
-
-
-
-
 ubuntu@ip-172-31-47-93:~$ ansible-inventory --list -i /etc/ansible/hosts
 {
     "Servers": {
