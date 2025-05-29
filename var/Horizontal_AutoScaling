@@ -317,25 +317,6 @@ l; done
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ubuntu@ip-172-31-36-194:~/kubestarter/HPA_VPA$ kubectl get hpa
 NAME         REFERENCE                      TARGETS        MINPODS   MAXPODS   REPLICAS   AGE
 apache-hpa   Deployment/apache-deployment   cpu: 91%/10%   1         5         4          4m9s
