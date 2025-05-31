@@ -428,15 +428,7 @@ If you don't see a command prompt, try pressing enter.
 <html><body><h1>It works!</h1></body></html>
 
 
-
-
-
-
-
-
 Every 2.0s: kubectl get vpa                        ip-172-31-36-194: Fri Mar 21 06:25:55 2025
 
 NAME         MODE   CPU   MEM       PROVIDED   AGE
 apache-hpa   Auto   25m   262144k   True       15m
-
-
